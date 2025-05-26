@@ -41,18 +41,18 @@ A Telegram-based Event Calendar Bot that helps users manage and organize their p
 ## 📁 Project Structure
 
    ```bash
-   event_calendar_bot/
-├── __pycache__/                  # Compiled Python bytecode (auto-generated)
-├── venv/                         # Python virtual environment
-│   ├── Include/
-│   ├── Lib/
-│   ├── Scripts/
-│   └── pyvenv.cfg
-├── bot.py                        # Main Telegram bot logic and command handling
-├── db.py                         # SQLite database connection and queries
-├── event_calendar.db             # SQLite database file storing event data
-├── requirements.txt              # Python dependencies
-└── README.md                     # Project overview and setup instructions
+      event_calendar_bot/
+   ├── __pycache__/                  # Compiled Python bytecode (auto-generated)
+   ├── venv/                         # Python virtual environment
+   │   ├── Include/
+   │   ├── Lib/
+   │   ├── Scripts/
+   │   └── pyvenv.cfg
+   ├── bot.py                        # Main Telegram bot logic and command handling
+   ├── db.py                         # SQLite database connection and queries
+   ├── event_calendar.db             # SQLite database file storing event data
+   ├── requirements.txt              # Python dependencies
+   └── README.md                     # Project overview and setup instructions
 
 ## 📝 File Descriptions
 
