@@ -109,6 +109,7 @@ A Telegram-based Event Calendar Bot that helps users manage and organize their p
    ├── requirements.txt              # Python dependencies
    └── README.md                     # Project overview and setup instructions
 
+
 ## 👤 Author
 
 Risa Fernandes
