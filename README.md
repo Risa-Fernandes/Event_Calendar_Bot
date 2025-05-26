@@ -111,5 +111,5 @@ A Telegram-based Event Calendar Bot that helps users manage and organize their p
 
 ## 👤 Author
 
-Risa Sharma
-GitHub: @yourusername
+Risa Fernandes
+GitHub: Risa-Fernandes
