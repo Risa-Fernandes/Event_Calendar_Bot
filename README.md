@@ -38,38 +38,6 @@ A Telegram-based Event Calendar Bot that helps users manage and organize their p
      ```bash
      python bot.py
 
-## 📁 Project Structure
-
-   ```bash
-      event_calendar_bot/
-   ├── __pycache__/                  # Compiled Python bytecode (auto-generated)
-   ├── venv/                         # Python virtual environment
-   │   ├── Include/
-   │   ├── Lib/
-   │   ├── Scripts/
-   │   └── pyvenv.cfg
-   ├── bot.py                        # Main Telegram bot logic and command handling
-   ├── db.py                         # SQLite database connection and queries
-   ├── event_calendar.db             # SQLite database file storing event data
-   ├── requirements.txt              # Python dependencies
-   └── README.md                     # Project overview and setup instructions
-
-## 📝 File Descriptions
-
-bot.py: Entry point for your Telegram bot. Handles commands like /start, /addevent, etc.
-
-db.py: Contains database operations (insert, update, fetch, delete) using SQLite.
-
-event_calendar.db: Your SQLite database that stores all events.
-
-requirements.txt: Lists required Python packages (e.g., python-telegram-bot).
-
-README.md: Describes your project, setup steps, and usage.
-
-venv/: Virtual environment folder (should be excluded from Git using .gitignore).
-
-__pycache__/: Auto-generated folder for cached Python bytecode
-
 ## 🚪 Bot Commands
 
 /start - Welcome message
@@ -124,6 +92,22 @@ __pycache__/: Auto-generated folder for cached Python bytecode
 3. Share events with other users
 
 4. PDF/CSV export of meeting logs
+
+## 📁 Project Structure
+
+   ```bash
+      event_calendar_bot/
+   ├── __pycache__/                  # Compiled Python bytecode (auto-generated)
+   ├── venv/                         # Python virtual environment
+   │   ├── Include/
+   │   ├── Lib/
+   │   ├── Scripts/
+   │   └── pyvenv.cfg
+   ├── bot.py                        # Main Telegram bot logic and command handling
+   ├── db.py                         # SQLite database connection and queries
+   ├── event_calendar.db             # SQLite database file storing event data
+   ├── requirements.txt              # Python dependencies
+   └── README.md                     # Project overview and setup instructions
 
 ## 👤 Author
 
