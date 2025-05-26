@@ -54,6 +54,7 @@ A Telegram-based Event Calendar Bot that helps users manage and organize their p
 ├── requirements.txt              # Python dependencies
 └── README.md                     # Project overview and setup instructions
 
+
 ## 📝 File Descriptions
 
 bot.py: Entry point for your Telegram bot. Handles commands like /start, /addevent, etc.
@@ -69,6 +70,7 @@ README.md: Describes your project, setup steps, and usage.
 venv/: Virtual environment folder (should be excluded from Git using .gitignore).
 
 __pycache__/: Auto-generated folder for cached Python bytecode
+
 
 ## 🚪 Bot Commands
 
