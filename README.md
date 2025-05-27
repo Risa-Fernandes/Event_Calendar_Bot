@@ -59,7 +59,7 @@ A Telegram-based Event Calendar Bot that helps users manage and organize their p
 
 ## 📆 Database Design
 
-### Users Table
+**Users Table**
 
 1. user_id
 
@@ -67,7 +67,7 @@ A Telegram-based Event Calendar Bot that helps users manage and organize their p
 
 3. last_login
 
-### Events Table
+ **Events Table**
 
 1. event_id
 
@@ -95,8 +95,8 @@ A Telegram-based Event Calendar Bot that helps users manage and organize their p
 
 ## 📁 Project Structure
 
-   '''text
-      event_calendar_bot/
+   ```text
+   event_calendar_bot/
    ├── __pycache__/                  # Compiled Python bytecode (auto-generated)
    ├── venv/                         # Python virtual environment
    │   ├── Include/
