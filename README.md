@@ -95,7 +95,6 @@ A Telegram-based Event Calendar Bot that helps users manage and organize their p
 
 ## 📁 Project Structure
 
-   ```bash
       event_calendar_bot/
    ├── __pycache__/                  # Compiled Python bytecode (auto-generated)
    ├── venv/                         # Python virtual environment
