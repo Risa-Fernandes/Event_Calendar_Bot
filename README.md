@@ -7,8 +7,11 @@ A Telegram-based Event Calendar Bot that helps users manage and organize their p
 - Add events with title, date, time, and optional description
 - View upcoming events
 - Edit or delete existing events
+- Track user login time and profile info
+- Log meeting notes or minutes
 - Stores user data in a local SQLite database
 - Easy-to-use conversational interface on Telegram
+- Fully asynchronous using python-telegram-bot v20
 
 ## 🛠️ Tech Stack
 
@@ -112,5 +115,5 @@ A Telegram-based Event Calendar Bot that helps users manage and organize their p
 
 ## 👤 Author
 
-- Risa Fernandes
-- GitHub: Risa-Fernandes
+- Name     : Risa Fernandes
+- GitHub   : Risa-Fernandes (Username)
