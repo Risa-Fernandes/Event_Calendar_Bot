@@ -107,8 +107,7 @@ A Telegram-based Event Calendar Bot that helps users manage and organize their p
    ├── db.py                         # SQLite database connection and queries
    ├── event_calendar.db             # SQLite database file storing event data
    ├── requirements.txt              # Python dependencies
-   └── README.md                     # Project overview and setup instructions
-
+   └── README.md                     # Project overview and setup  instructions```
 
 ## 👤 Author
 
